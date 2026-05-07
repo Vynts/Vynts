@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hello I'm Alvinza Erza Farandhika<br>Student of SMK Muhammadiyah 3 Metro<br>I'm long live learner, happy to learn about anything!</p>
+<p align="left">Hello I'm Alvinza Erza Farandhika<br>Fresh Graduated High School Stundent<br>I'm long live learner, happy to learn about anything!</p>
 
 ###
 
