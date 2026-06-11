@@ -1,7 +1,5 @@
 <p align="center">
-  <svg width="100%" height="200" viewBox="0 0 1000 200" preserveAspectRatio="xMidYMid slice">
-    <image href="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="1000" height="562" x="0" y="-180" />
-  </svg>
+  <img src="[https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif](https://s6.ezgif.com/tmp/ezgif-610d6c07b2363459.gif)" width="100%" height="200" alt="Banner Gif" />
 </p>
 
 <h2 align="start">hey there 👋, Im Erza</h1>
