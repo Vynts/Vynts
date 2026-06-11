@@ -4,13 +4,13 @@
 
 ###
 
-<h3 align="left">🎓 About Me</h3>
+```About Me
 
-###
+Hello I'm Alvinza Erza Farandhika
+Fresh Graduated High School Stundent
+I'm long live learner, happy to learn about anything!
 
-<p align="left">Hello I'm Alvinza Erza Farandhika<br>Fresh Graduated High School Stundent<br>I'm long live learner, happy to learn about anything!</p>
-
-###
+```
 
 <h3 align="left">💻 Tech Stack:</h3>
 
