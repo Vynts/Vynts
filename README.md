@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%" height="200" alt="Banner Gif" />
+  <img src="banner.gif" width="100%" height="auto" alt="Banner Gif" />
 </p>
 
 <h2 align="start">hey there 👋, Im Erza</h1>
