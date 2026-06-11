@@ -1,4 +1,4 @@
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="400" alt="Demo Aplikasi" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="400" alt="Banner Gif" />
 
 <h1 align="center">hey there 👋, Im Erza</h1>
 
