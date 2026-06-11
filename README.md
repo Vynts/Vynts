@@ -19,7 +19,7 @@ Fresh Graduated High School Stundent
 I'm long live learner, happy to learn about anything!
 ```
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h4 align="left">Tech Stack:</h3>
 
 ###
 
