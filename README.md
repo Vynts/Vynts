@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="400" alt="Demo Aplikasi" />
 
 <h1 align="center">hey there 👋, Im Erza</h1>
 
