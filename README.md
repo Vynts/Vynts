@@ -1,13 +1,17 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 250px; overflow: hidden;">
-  <img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" style="min-width: 100%; min-height: 100%; height: auto; width: auto;" alt="Banner Gif" />
-</div>
-
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0;">
+      <img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="100%" height="200" alt="Banner Gif" />
+    </td>
+  </tr>
+</table>
 <h2 align="start">hey there 👋, Im Erza</h1>
 
 ###
 
 ```
 Alvinza Erza Farandhika
+
 • Junior Backend Engineer
 ```
 
