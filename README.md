@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="400" alt="Banner Gif" />
+<img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="400" alt="Banner Gif" />
 
-<h1 align="center">hey there 👋, Im Erza</h1>
+<h2 align="start">hey there 👋, Im Erza</h1>
 
 ###
 
@@ -46,8 +46,6 @@ I'm long live learner, happy to learn about anything!
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextjs.png" height="40" alt="Next.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo square" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL icon" />
 </div>
 
 
