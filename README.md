@@ -4,12 +4,16 @@
 
 ###
 
-```About Me
+```
+Alvinza Erza Farandhika
+• Junior Backend Engineer
+```
 
-Hello I'm Alvinza Erza Farandhika
+```
+> About Me
+
 Fresh Graduated High School Stundent
 I'm long live learner, happy to learn about anything!
-
 ```
 
 <h3 align="left">💻 Tech Stack:</h3>
@@ -42,6 +46,8 @@ I'm long live learner, happy to learn about anything!
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextjs.png" height="40" alt="Next.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo square" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL icon" />
 </div>
 
 
