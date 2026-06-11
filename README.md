@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextjs.png" height="40" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo square" />
 </div>
 
 
