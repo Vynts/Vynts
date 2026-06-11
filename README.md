@@ -8,8 +8,7 @@
 
 ```
 Alvinza Erza Farandhika
-
-• Junior Backend Engineer
+• Junior Backend Engineer | Cloud Computing Enthusiast
 ```
 
 ```
