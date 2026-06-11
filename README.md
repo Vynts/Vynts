@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" style="widht: 100%; height: 200px; object-fit: cover;" alt="Banner Gif" />
+  <img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" style="width: 100%; height: 200px; object-fit: cover;" alt="Banner Gif" />
 </p>
 
 <h2 align="start">hey there 👋, Im Erza</h1>
