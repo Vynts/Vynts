@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="100%" height="200" style="display: block; margin: 0 auto;" alt="Banner Gif" />
+<div style="background-image: url('https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif'); background-size: cover; background-position: center; width: 100%; height: 200px;"></div>
 
 <h2 align="start">hey there 👋, Im Erza</h1>
 
