@@ -1,10 +1,5 @@
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0;">
-      <img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="100%" height="200" alt="Banner Gif" />
-    </td>
-  </tr>
-</table>
+<img src="https://media1.tenor.com/m/KsAvuyasWeMAAAAC/tsue-to-surugi-no-wistoria-wistoria-wand-and-sword.gif" width="100%" style="display: block; margin: 0 auto;" alt="Banner Gif" />
+
 <h2 align="start">hey there 👋, Im Erza</h1>
 
 ###
