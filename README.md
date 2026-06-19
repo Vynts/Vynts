@@ -10,7 +10,7 @@ Alvinza Erza Farandhika
 ```
 > About Me
 
-Always learn about anything, Web Development, Cloud Computing, Databases, Network Engineering and more
+Always learn about anything, Web Development, Cloud Computing, Databases, Design, Network Engineering and more
 I'm long live learner, happy to learn about anything!
 ```
 
