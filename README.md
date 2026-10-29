@@ -1,14 +1,11 @@
 <h2 align="start">hey there 👋, Im Erza</h2>
 
+###
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Alvinza+Erza+Farandhika;Junior+Backend+Developer;Cloud+Computing+%26+DevOps+Enthusiast;Always+Learning+Anything!" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="URL_GIF_KAMU.gif" width="100%" height="220px" style="object-fit: cover;" alt="Header Banner GIF" />
 </p>
 
 ```
