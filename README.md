@@ -18,7 +18,7 @@ Alvinza Erza Farandhika
 Always learn about anything, Web Development, Cloud Computing, Databases, Design and more
 I'm long live learner, happy to learn about anything!
 
-1st Winner LKS Cloud Computing Provincial Level 2025 & National Finalist 2025.
+1st Winner LKS Cloud Computing Provincial Level & National Finalist 2025.
 
 ```
 
