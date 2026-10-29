@@ -1,5 +1,7 @@
 <h2 align="start">hey there 👋, Im Erza</h2>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:00d4ff&height=200&section=header&text=Alvinza%20Erza%20Farandhika&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 ###
 ```
 Alvinza Erza Farandhika
