@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="URL_GIF_KAMU.gif" width="100%" height="220px" style="object-fit: cover;" alt="Header Banner GIF" />
+</p>
+
 ```
 Alvinza Erza Farandhika
 - Junior Backend Developer | Cloud Computing Enthusiast
