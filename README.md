@@ -14,7 +14,7 @@ Always learn about anything, Web Development, Cloud Computing, Databases, Design
 I'm long live learner, happy to learn about anything!
 
 my On-going Ebook Project
-> <a href="https://ebook-cloud.erza.my.id">Dasar Cloud Computing & Devops</a>
+> https://ebook-cloud.erza.my.id
 ```
 
 <h4 align="left">Tech Stack:</h3>
