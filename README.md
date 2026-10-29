@@ -16,13 +16,6 @@ I'm long live learner, happy to learn about anything!
 
 ```
 
-<h4 align="left">GitHub Stats & Metrics:</h4>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vynts&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=vynts&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" height="160" />
-</p>
-
 ###
 
 <p align="left">
