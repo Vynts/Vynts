@@ -9,9 +9,21 @@ Alvinza Erza Farandhika
 ```
 > About Me
 
-Always learn about anything, Web Development, Cloud Computing, Databases, Design, Network Engineering and more
+Always learn about anything, Web Development, Cloud Computing, Databases, Design and more
 I'm long live learner, happy to learn about anything!
+
+1st Winner LKS Cloud Computing Provincial Level 2025 & National Finalist 2025.
+
 ```
+
+<h4 align="left">GitHub Stats & Metrics:</h4>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vynts&show_icons=true&theme=tokyonight&hide_border=true" alt="Erza's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+###
 
 <p align="left">
   <a href="https://www.erza.my.id"><img src="https://img.shields.io/badge/Website-www.erza.my.id-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Erza" /></a>
