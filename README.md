@@ -1,7 +1,7 @@
 <h2 align="start">hey there 👋, Im Erza</h2>
 
 ###
-
+```
 Alvinza Erza Farandhika
 - Junior Backend Developer | Cloud Computing Enthusiast
 
@@ -9,7 +9,7 @@ Alvinza Erza Farandhika
 
 Always learn about anything, Web Development, Cloud Computing, Databases, Design, Network Engineering and more
 I'm long live learner, happy to learn about anything!
-
+```
 my On-going Ebook Project
 > https://ebook-cloud.erza.my.id
 
