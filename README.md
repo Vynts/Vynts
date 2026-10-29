@@ -12,6 +12,9 @@ Alvinza Erza Farandhika
 
 Always learn about anything, Web Development, Cloud Computing, Databases, Design, Network Engineering and more
 I'm long live learner, happy to learn about anything!
+
+my On-going Ebook Project
+> <a href="https://ebook-cloud.erza.my.id">Dasar Cloud Computing & Devops</a>
 ```
 
 <h4 align="left">Tech Stack:</h3>
