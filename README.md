@@ -19,8 +19,8 @@ I'm long live learner, happy to learn about anything!
 <h4 align="left">GitHub Stats & Metrics:</h4>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vynts&show_icons=true&theme=tokyonight&hide_border=true" alt="Erza's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_KAMU&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies" height="160" />
 </p>
 
 ###
