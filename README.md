@@ -4,7 +4,9 @@
 ```
 Alvinza Erza Farandhika
 - Junior Backend Developer | Cloud Computing Enthusiast
+```
 
+```
 > About Me
 
 Always learn about anything, Web Development, Cloud Computing, Databases, Design, Network Engineering and more
