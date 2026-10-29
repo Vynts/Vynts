@@ -12,9 +12,11 @@ Alvinza Erza Farandhika
 Always learn about anything, Web Development, Cloud Computing, Databases, Design, Network Engineering and more
 I'm long live learner, happy to learn about anything!
 ```
-<p>Profile Website > <a href="https://www.erza.my.id">Profile</a></p>
-<p>Ebook Dasar Cloud Computing & Devops - Ongoing > <a href="https://ebook-cloud.erza.my.id">Ebook</a></p>
 
+<p align="left">
+  <a href="https://www.erza.my.id"><img src="https://img.shields.io/badge/Website-www.erza.my.id-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Erza" /></a>
+  <a href="https://ebook-cloud.erza.my.id"><img src="https://img.shields.io/badge/Ebook_Project-Cloud_%26_DevOps-orange?style=for-the-badge&logo=gitbook&logoColor=white" alt="Ebook Project" /></a>
+</p>
 
 <h4 align="left">Tech Stack:</h4>
 
