@@ -67,15 +67,3 @@ I'm long live learner, happy to learn about anything!
 
 ###
 
-<h4 align="left">Currently Learning:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextjs.png" height="40" alt="Next.js logo" />
-</div>
-
-###
-
