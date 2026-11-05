@@ -10,7 +10,7 @@
 
 ```
 Alvinza Erza Farandhika
-- Junior Backend Developer | Cloud Computing Enthusiast
+- Junior Backend Developer (Python, FastApi) | Cloud Computing Enthusiast
 ```
 
 ```
