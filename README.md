@@ -27,9 +27,9 @@ Bronze Medal Olympic Ahmad Dahlan VII 2024 (Web Design)
 
 ```
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake-dark.svg?v=dark2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg?v=dark2">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg?v=dark2">
 </picture>
 
 ###
