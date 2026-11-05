@@ -20,6 +20,8 @@ Always learn about anything, Web Development, Cloud Computing, Databases, Design
 I'm long live learner, happy to learn about anything!
 
 1st Winner LKS Cloud Computing Provincial Level & National Finalist 2025.
+2nd Winner LKS Cloud Computing Metro City 2024
+Bronze Medal Olympic Ahmad Dahlan VII 2024 (Web Design)
 
 ```
 
