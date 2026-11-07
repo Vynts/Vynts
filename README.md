@@ -14,18 +14,32 @@ Alvinza Erza Farandhika
 ```
 
 ```
-> About Me
+         .   ,                          
+         '. '.  \  \                      ┌───────────────────────────────── Developer ─────────────────────────────────┐ 
+        ._ '-.'. `\  \                    │ NAME     : Alvinza Erza Farandhika     
+          '-._; .'; `-.'.                 │ ROLE     : Junior Backend Developer (Python, FastAPI)    
+         `~-.; '.       '.                │ FOCUS    : Cloud Computing & Web Development     
+          '--,`           '.              └─────────────────────────────────────────────────────────────────────────────┘
+             -='.          ;              
+   .--=~~=-,    -.;        ;
+   .-=`;    `~,_.;        /               ┌──────────────────────────────── Achievements ───────────────────────────────┐
+  `  ,-`'    .-;         |                │ [1] 1st Winner LKS Cloud Computing Provincial Level & National Finalist 2025
+     .-~`.    .;         ;                │ [2] 2nd Winner LKS Cloud Computing Metro City, Lampung 2024  
+      .;.-   .-;         ,\               │ [3] Bronze Medal Olympic Ahmad Dahlan VII 2024 (Web Design)     
+        `.'   ,=;     .-'  `~.-._         └─────────────────────────────────────────────────────────────────────────────┘
+         .';   .';  .'      .'   '-.      
+           .\  ;  ;        ,.' _  z',
+          .'~";-`   ;      ;"~` `'-=.)    
+        .' .'   . _;  ;',  ;              
+        '-.._`~`.'  \  ; ; :              
+             `~'    _'\\_ \\_             
+                   /=`^^=`""/`)-.         
+            -erza
 
-Always learn about anything, Web Development, Cloud Computing, Databases, Design and more
-I'm long live learner, happy to learn about anything!
 
-> Achievement
-
-1st Winner LKS Cloud Computing Provincial Level & National Finalist 2025.
-2nd Winner LKS Cloud Computing Metro City, Lampung 2024
-Bronze Medal Olympic Ahmad Dahlan VII 2024 (Web Design)
-
+Erza@DESKTOP-MANVIJF:
 ```
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake-dark.svg?v=dark2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake.svg?v=dark2">
