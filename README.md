@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="banner.gif" alt="Banner" style="width: 100%; height: 250px; object-fit: cover;" />
+  <img src="banner.gif" alt="Banner" style="width: 100%; />
 </p>
 
 ```
