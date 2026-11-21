@@ -2,11 +2,7 @@
 
 ###
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Alvinza+Erza+Farandhika;Junior+Backend+Developer;Cloud+Computing+%26+DevOps+Enthusiast;Always+Learning+Anything!" alt="Typing SVG" />
-  </a>
-</p>
+[banner.gif]
 
 ```
 Alvinza Erza Farandhika
@@ -39,14 +35,6 @@ Alvinza Erza Farandhika
 
 Erza@DESKTOP-MANVIJF:
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake-dark.svg?v=dark2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vynts/vynts/output/github-contribution-grid-snake.svg?v=dark2">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg?v=dark2">
-</picture>
-
-###
 
 <p align="left">
   <a href="https://www.erza.my.id"><img src="https://img.shields.io/badge/Website-www.erza.my.id-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Erza" /></a>
