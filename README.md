@@ -2,7 +2,7 @@
 
 ###
 
-[banner.gif]
+![Banner](banner.gif)
 
 ```
 Alvinza Erza Farandhika
